@@ -1,2 +1,2 @@
-# resume
-My Resume
+# Mark Stachowski's Resume
+My Resume posted on Github.
