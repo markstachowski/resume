@@ -1,2 +1,2 @@
 # Mark Stachowski's Resume
-My Resume on Github.
+Feel free to contact me if you would like to work on any projects. 
